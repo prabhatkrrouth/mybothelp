@@ -1,6 +1,6 @@
 {
 	"ip":"indiafreefire.aternos.me",
-	"port": "45392",
-	"name": "Mybot",
+	"port": "25565",
+	"name": "afkbot1",
 	"auto-night-skip":"false"
 }
